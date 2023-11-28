@@ -3,6 +3,7 @@ object HelloWorldProgram {
 
     print("Hello World")
     print("\nthis is my first program")
+    print("\nend of the program. Thank you")
 
   }
 
